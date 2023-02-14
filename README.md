@@ -6,4 +6,4 @@ Your estimations are fundamental to statistics. It involves getting a good under
 
 1. Personas [Consumer Personas - Raunak.pdf](https://github.com/raunaksharan/Estimations/files/10735192/Consumer.Personas.-.Raunak.pdf)
 
-2. Google Cloud Platform [CloudMigration.pdf](https://github.com/raunaksharan/Estimations/files/10735264/CloudMigration.pdf)
+2. Google Cloud Platform [Cloud Migration.pdf](https://github.com/raunaksharan/Estimations/files/10735264/CloudMigration.pdf)
